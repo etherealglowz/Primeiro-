@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+     background-color: antiquewhite;
+   }
+   h1{
+    color: green
+     
+   }
+   a{
+     text-decoration:none;
+     background-color:green;
+     color:yellow;
+       padding: 10px 20px;
+     border-radius: 10px
+   }
+
+   #botoes{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+   }
